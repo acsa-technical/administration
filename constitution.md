@@ -325,7 +325,7 @@ Honorary membership is a recognition of service to ACSA.
 ## 1. Who can be an Office Bearer
 Office Bearers must be members of the committee.
 
-# 2. Office Bearer Offices
+## 2. Office Bearer Offices
 Descriptions of the offices bearer offices:
 <ol>
     <li>
