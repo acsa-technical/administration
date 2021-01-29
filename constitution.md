@@ -1,14 +1,13 @@
-<style>ol {list-style-type: decimal;}</style>
 # The Australian Computing Students Association Constitution
 ##### Edition 0
 
-## 1. Preliminary
-### 1. Citation of this Constitution
+# 1. Preliminary
+## 1. Citation of this Constitution
 This constitution shall be cited by the following method:
 1. Using the following keys:
 	1. “\<name\>” is either “The Australian Computing Students Association Constitution”, “ACSA Constitution”, or “ACSAC”.
 	2. “\<edition\>” is the edition number of this constitution.
-	3. “\<numerical reference\>” is a description of a particular section by writing the section, subsection, etc. separated by fullstops.
+	3. “\<numerical reference\>” is a description of a particular section by writing the section, subsection, etc. separated by fullstops, with all numbers represented by Western Arabic numerals.
 2. Using one of following schemes:
 	1. If within this constitution or its appendices, either
 		1. “§ \<numerical reference\>” if citing a single section; or
@@ -17,13 +16,13 @@ This constitution shall be cited by the following method:
 		1. “\<name\> Ed.\<edition\> § \<numerical reference\>” if citing a single section; or
 		2. “\<name\> Ed.\<edition\> §§ \<numerical reference\>-\<numerical reference\>” if citing a contiguous series of sections, where the first “\<numerical reference\>” is the the start section, and the second “\<numerical reference\>” is the end section.
 
-### 2. Name
+## 2. Name
 1. The name of the union shall be “The Australian Computing Students Association.”
 2. The union shall also be known as “Australian Computing Students Association.”
 3. The union shall also be known by the acronym “ACSA”, for “Australian Computing Students Association.”
 
-## 2. Purpose
-### 1. Statement of Purpose
+# 2. Purpose
+## 1. Statement of Purpose
 The aims and objectives of The Australian IT Student Union shall be—
 1. to share the events, opportunities, and advantages of each affiliated club among other affiliated clubs;
 2. to promote social, academic, and industrial outcomes for our members;
@@ -31,14 +30,14 @@ The aims and objectives of The Australian IT Student Union shall be—
 4. to improve and support affiliated clubs; and 
 5. to represent Australian tertiary students who study a technology-related course at their education institutions, on a national level, and on an international level.
 
-### 2. Political Involvement
+## 2. Political Involvement
 ACSA shall not be party political, though may give advice and considered view of policy proposals.
 
-### 3. Not for Profit
+## 3. Not for Profit
 ACSA shall not be for profit.
 
-## 3. Affiliation to ACSA
-### 1. Right to Affiliation
+# 3. Affiliation to ACSA
+## 1. Right to Affiliation
 All tertiary student clubs have the right to affiliation with the ACSA, provided they—
 	1. are an Australian tertiary education student club;
 	2. are an information technology, computer science, or computing club or society;
@@ -56,20 +55,20 @@ All tertiary student clubs have the right to affiliation with the ACSA, provided
 	8. are not for profit; and
 	9. do not have discriminatory, or prejudicial practices.
 
-### 2. Ratification
+## 2. Ratification
 Applications for affiliation by a club become active upon—
 1. ratification of this constitution by the ACSA Committee;
 2. ratification of this constitution by the club’s committee; and
 3. provision to ACSA of proof (such as meeting minutes) of ratification of this constitution by the club.
 
-### 3. Associate Affiliation
+## 3. Associate Affiliation
 Pursuant to § 3.1, and upon application for affiliation with ACSA, a club must be given associate affiliation.
 1. An associate affiliate can become a full affiliate by a simple majority vote, excluding the club in question, after a period of 30 days.
 2. Associate affiliation automatically ends, and full affiliation is granted after a period of 90 days from ratification.
 3. Associate affiliates are entitled to all the rights of full affiliates other than—
 	1. the right to have their representative hold any of the ACSA offices of President, Vice President, Secretary, or Treasurer. This is unless there is no full affiliate club representative that is willing and able to hold that particular office.
 
-### 4. Disaffiliation
+## 4. Disaffiliation
 1. A club is disaffiliated in the following ways:
 	1. By repealing the ratification of the ACSA constitution in the club’s committee.
 	2. An associate affiliate can be disaffiliated by a simple majority vote of the ACSA Committee.
@@ -80,16 +79,16 @@ Pursuant to § 3.1, and upon application for affiliation with ACSA, a club must 
 3. Disaffiliation applies effective immediately.
 4. A club has the right to be present and heard at proceedings where a decision is to be made for the disaffiliation of the club.
 
-### 5. Affiliation Fee
+## 5. Affiliation Fee
 Clubs may be required to pay an affiliation fee—
 	1. not exceeding $100 AUD; and
 	2. not more than once per year.
 
-## 4. ACSA Membership
-### 1. Membership
+# 4. ACSA Membership
+## 1. Membership
 All members of affiliated clubs are ACSA members.
 
-### 2. Honorary Membership
+## 2. Honorary Membership
 Honorary membership is a recognition of service to ACSA.
 1. Honorary membership must be permanently granted to individuals that—
 	1. have served on the ACSA committee; and
@@ -100,14 +99,14 @@ Honorary membership is a recognition of service to ACSA.
 3. Honorary membership is ceremonial and appreciative, and does not bestow any rights that are reserved for ACSA members.
 4. A list of honorary members must be kept by the club.
 
-## 5. Committee
-### 1. Power of the Committee
+# 5. Committee
+## 1. Power of the Committee
 1. Decisions of the committee are binding to ACSA.
 2. Decisions of the committee are binding to ACSA affiliates.
 3. Decisions of subcommittees (as specified in § 7) can be overridden by the committee
 4. Decisions of the committee in contradiction to this constitution are null and void.
 
-### 2. Committee Meetings
+## 2. Committee Meetings
 1. Votes, unless otherwise specified in the constitution, are by simple majority of committee members.
 2. Meetings are chaired by the President, or the Vice President in the President’s absence.
 	1. The chair’s vote is reserved for tie-breaking.
@@ -125,7 +124,7 @@ Honorary membership is a recognition of service to ACSA.
 	2. at least half of all committee members are present.
 10. At least one meeting must be held per semester.
 
-### 3. Committee Members
+## 3. Committee Members
 1. Committee members have the right to vote in committee meetings.
 2. Each committee member represents their affiliated club, either as the—
 	1. President of that club; or
@@ -143,18 +142,18 @@ Honorary membership is a recognition of service to ACSA.
 6. Committee members are General Representatives if they have no other title in the ACSA committee.
 7. A list of committee members and their positions, past and present, should be available on the ACSA website, if and when the ACSA website is online.
 
-### 4. Observer Status
+## 4. Observer Status
 1. Observer status is the right to observe committee meetings. Observers are not committee members, and do not have the rights of committee members.
 2. Observer status is granted to—
 	1. honorary members as pursuant to § 4.2;
 	2. Presidents of affiliated clubs, if they are not their club’s representative; and
 	3. guests to the committee, approved by the chair of the meeting.
 
-## 6. Office Bearers
-### 1. Who can be an Office Bearer
+# 6. Office Bearers
+## 1. Who can be an Office Bearer
 Office Bearers must be members of the committee.
 
-## 2. Office Bearer Offices
+# 2. Office Bearer Offices
 Descriptions of the offices bearer offices:
 1. The President shall—
 	1. preside as chairperson at committee meetings;
@@ -188,7 +187,7 @@ Descriptions of the offices bearer offices:
 	3. amenable by simple majority vote by the committee;
 	4. may be declared to expire after some date.
 
-### 3. Elections
+## 3. Elections
 1. The first committee meeting of each year must begin with an election.
 2. Elections are conducted by secret ballot.
 3. All committee members are entitled to vote, including the chair.
@@ -196,8 +195,8 @@ Descriptions of the offices bearer offices:
 5. Votes for offices occupied by one person are voted for by instant-runoff voting.
 6. Votes for offices occupied by more than one person are voted for by single transferrable vote.
 
-## 7. Subcommittees
-### 1. Establishing Subcommittees
+# 7. Subcommittees
+## 1. Establishing Subcommittees
 A subcommittee must be established by approving the terms of reference proposed at a committee meeting. The terms of reference must include:
 1. The name of the proposed subcommittee.
 2. The purpose of the subcommittee
@@ -206,34 +205,34 @@ A subcommittee must be established by approving the terms of reference proposed 
 	1. The Director, for the subcommittee’s leadership.
 	2. The Administrator, for recording minutes.
 
-### 2. Requirements of Subcommittees
+## 2. Requirements of Subcommittees
 Subcommittees must—
 1. adhere to this constitution;
 2. adhere to their terms of reference;
 3. record minutes of every meeting, and submit them to the Secretary; and
 4. adhere to decisions of the committee.
 
-### 3. Amending Terms of Reference
+## 3. Amending Terms of Reference
 A subcommittee’s terms of reference can be amended by approving an amendment to the terms of reference proposed at a committee meeting.
 
-### 4. Dissolution of Subcommittees
+## 4. Dissolution of Subcommittees
 A subcommittee is dissolved by simple majority vote by the committee.
 
-### 5. Subcommittee Members
+## 5. Subcommittee Members
 A subcommittee member must be a member of ACSA.
 
-## 8. Constitutional Amendments
-### 1. Approving Amendments
+# 8. Constitutional Amendments
+## 1. Approving Amendments
 1. Amendments to this constitution must be approved by three quarters majority by the committee;
 2. The amended constitution becomes the constitution of the ACSA, and the previous edition is null and void.
 
-### 2. Reference Updates
+## 2. Reference Updates
 1. When a constitutional amendment is approved the edition number of the amended constitution is incremented.
 2. When an amendment is made that changes the destination of a reference to a section within this constitution, that reference must be updated to reference the same passage in the amended constitution.
 
-## 9. Union Dissolution
+# 9. Union Dissolution
 ACSA shall be dissolved on the following conditions:
 1. A nine tenths majority vote by the committee votes to dissolve ACSA
 2. A two thirds majority vote of those who voted to dissolve the committee, for to which organisation, with objectives similar to ACSA, surplus assets should be donated.
  
-## 10. Appendix
+# 10. Appendix
