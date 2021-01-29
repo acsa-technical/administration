@@ -394,7 +394,7 @@ Descriptions of the offices bearer offices:
 
 # 7. Subcommittees
 ## 1. Establishing Subcommittees
-A subcommittee must be established by approving the terms of reference proposed at a committee meeting. The terms of reference must include:
+A subcommittee must be established by approving the terms of reference proposed at a committee meeting. Approved terms of references must be appended to this constitution. The terms of reference must include:
 <ol>
     <li>The name of the proposed subcommittee.</li>
     <li>The purposes of the subcommittee</li>
@@ -406,6 +406,7 @@ A subcommittee must be established by approving the terms of reference proposed 
             <li type="1">The Administrator, for recording minutes.</li>
         </ol>
     </li>
+    <li>The permissions granted to the subcommittee.</li>
 </ol>
 
 ## 2. Requirements of Subcommittees
