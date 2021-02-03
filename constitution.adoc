@@ -1,0 +1,167 @@
+= The Australian Computing Students`' Association Constitution
+
+:sectnums:
+
+== Name
+
+The name of the association is The Australian Computing Students`' Association.
+
+== Definitions
+
+In this constitution:
+
+[horizontal]
+computing:: means computer science, computing, information technology, software engineering, similar disciplines, and sub-disciplines thereof.
+special resolution:: means a resolution of the committee&#8212;
+. of which at least three weeks' notice of the meeting at which it will be considered has been given to members, and
+. that is passed at a committee meeting by more than three quarters of the members voting.
+
+== Purposes
+
+The purposes of the association are&#8212;
+
+* to foster a community of tertiary student computing associations, clubs, and societies in Australia;
+
+* to facilitate communication and collaboration between member associations;
+
+* to improve and support member associations; and
+
+* to represent Australian tertiary students studying or interested in computing, at a national and international level.
+
+== Powers
+
+. The association may do all things that help it to achieve its purposes, in accordance with this constitution.
+
+. The association and its committee may only do things and use the income and assets of the association for the purposes.
+
+== Not for profit
+
+. The association must not distribute any income or assets, directly or indirectly, to its members.
+
+. Subsection (1) does not prevent the association from paying a member&#8212;
++
+--
+.. reimbursement for expenses properly incurred by the member; or
+
+.. for goods or services provided by the member
+
+if this is done in good faith on terms no more favourable than if the member was not a member.
+--
+
+== Indemnity
+
+. To the extent possible under law, members and committee members are entitled to be indemnified out of the assets held for the association for any debts or liabilities incurred personally by a member or committee member when acting on behalf of the association, so long as the member or committee member was&#8212;
+.. authorised by the association to take that action; and
+.. acting in good faith and in the best interests of the association.
+
+. This indemnity is a continuing obligation and is enforceable by a person even if that person is no longer a member of the association. This indemnity only applies to the extent that the person is not otherwise entitled to be indemnified and is not actually indemnified by another person (including an insurer under an insurance policy).
+
+== Funds and assets
+
+The association can receive funding from&#8212;
+
+[loweralpha]
+. joining and annual membership fees;
+. donations;
+. grants;
+. fundraising;
+. interest; and
+. any other lawful sources approved by the committee that are consistent with furthering the association’s purposes.
+
+== Financial year
+
+The financial year of the association is a period of 12 months starting on 1 July.
+
+== Alteration of constitution
+
+This constitution may be changed, added to, or replaced by a special resolution of the committee. This includes a change to the association’s name.
+
+//== Record-keeping
+//
+//. The association must make and keep written financial records that&#8212;
+//.. correctly record and explain the association’s transactions and financial position and performance, and
+//.. enable true and fair financial statements to be prepared and to be audited.
+//
+//. The association must also keep written records that correctly record its operations, and be able to produce these records if required by law.
+//
+//. The association must retain its records for at least seven years, or as otherwise required by any laws that may apply (for example, taxation law).
+//
+//. The committee members must take reasonable steps to ensure that the association’s records are kept safe.
+
+== Membership
+
+. Any unincorporated association or body corporate can apply to join the association as a member.
+
+. An application for membership must&#8212;
+
+.. state that the applicant&#8212;
+... wishes to become a member of the association,
+... supports the purposes of the association, and
+... agrees to be bound by this constitution;
+
+.. specify a natural person that the applicant wishes to represent them on the committee, and be signed by that person; and
+
+.. include a copy of the applicant's constitution, rules, or equivalent.
+
+. The committee decides the process for receiving membership applications.
+
+. The committee decides by resolution whether to approve or reject membership applications.
+
+. After the committee has approved or rejected a membership application, the committee must contact the applicant as soon as practicable to tell them whether their application was approved or rejected. Reasons for rejection need not be given.
+
+. The committee can decide an annual membership fee not exceeding $100 by resolution.
+
+. Members must pay any membership fee within two months of being approved, and within two months of the start of every subsequent calendar year. If a member does not pay in time, their membership is suspended until the fee is paid.
+
+. When membership is suspended, a member cannot exercise their members’ rights such as voting at a general meeting.
+
+. A member may change their representative on the committee by writing to the committee and including the signed consent of the new representative. The change is effective when it is received by the committee, or at a later time if specified by the member.
+
+. A member stops being a member when&#8212;
+.. their membership is cancelled by a resolution of the committee that is passed at a committee meeting by more than two thirds of the members voting; or
+.. they resign by writing to the committee; or
+.. they are wound up, become insolvent, or come to have no members.
+
+. If a member resigns, the association is not required to refund any membership fees already paid.
+
+== Register of members
+
+The association must maintain a register of members that includes the name and contact details (an email address is sufficient) of each member and each member's representative.
+
+== The committee
+
+. The association is governed by a committee consisting of one representative nominated by each member.
+
+. The committee can exercise all powers and functions of the association.
+
+. The committee can delegate any of its powers and functions to a committee member or a sub-committee, other than this power of delegation or a duty that applies to the committee or particular committee member under Australian laws.
+
+. The committee may appoint and remove committee members to and from any positions (such as President, Vice-President, Treasurer and Secretary) and decide their responsibilities in those roles.
+
+== Committee meetings
+
+. The committee can decide how often it meets, and the way in which it meets, including by allowing committee members to attend through technology, so long as it allows everyone to communicate.
+
+. The committee members present at a meeting can choose who will chair that meeting.
+
+. A majority (more than half) of committee members must be present (either in person or through the use of technology) for the meeting to be validly held (this is the quorum for committee meetings).
+
+. A resolution is passed if more than half of the committee members voting at the committee meeting vote in favour of the resolution.
+
+. The committee can pass circular resolutions. To pass a circular resolution, committee members must agree to it in writing, including by email or other electronic communication, and it is passed once more than three quarters of committee members have agreed to it.
+
+== Annual general meeting
+
+. Within three months of the end of each financial year, the committee must hold a committee meeting that will serve as the annual general meeting (AGM) of the association.
+
+. The committee must notify all members in writing of the date, time, location, and business to be considered three weeks before an AGM.
+
+. The business of the AGM is to confirm the minutes of the previous AGM, receive reports and statements on the previous financial year, and any other business of which notice is given.
+
+== Winding up
+
+. The committee can voluntarily wind up the association by special resolution.
+
+. If the association is wound up, after it has paid all debts and other liabilities (including the costs of winding up), any remaining assets, subject to the requirements of Australian laws and any Australian court order, must be distributed to another body or other bodies with similar purposes, and which is/are not carried on for the profit or gain of members.
+
+. The body or bodies to which the surplus assets are to be given must be decided by special resolution.
