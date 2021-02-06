@@ -11,6 +11,7 @@ The name of the association is The Australian Computing Students`' Association.
 In this constitution:
 
 [horizontal]
+AGM:: means annual general meeting.
 computing:: means computer science, computing, information technology, software engineering, similar disciplines, and sub-disciplines thereof.
 special resolution:: means a resolution of the committee&#8212;
 . of which at least three weeks' notice of the meeting at which it will be considered has been given to members, and
@@ -26,7 +27,7 @@ The purposes of the association are&#8212;
 
 * to improve and support member associations; and
 
-* to represent Australian tertiary students studying or interested in computing, at a national and international level.
+* to promote the interests of Australian tertiary students studying or interested in computing.
 
 == Powers
 
@@ -99,7 +100,7 @@ This constitution may be changed, added to, or replaced by a special resolution 
 ... supports the purposes of the association, and
 ... agrees to be bound by this constitution;
 
-.. specify a natural person that the applicant wishes to represent them on the committee, and be signed by that person; and
+.. specify a natural person, who is a member of the applicant, that the applicant wishes to represent them on the committee, and be signed by that person; and
 
 .. include a copy of the applicant's constitution, rules, or equivalent.
 
@@ -109,11 +110,11 @@ This constitution may be changed, added to, or replaced by a special resolution 
 
 . After the committee has approved or rejected a membership application, the committee must contact the applicant as soon as practicable to tell them whether their application was approved or rejected. Reasons for rejection need not be given.
 
-. The committee can decide an annual membership fee not exceeding $100 by resolution.
+. The committee can decide an annual membership fee not exceeding $100 by resolution at an AGM.
 
 . Members must pay any membership fee within two months of being approved, and within two months of the start of every subsequent calendar year. If a member does not pay in time, their membership is suspended until the fee is paid.
 
-. When membership is suspended, a member cannot exercise their members’ rights such as voting at a general meeting.
+. When membership is suspended, a member cannot exercise their members’ rights such as voting at a general meeting. Membership may be suspended or unsuspended by a resolution of the committee that is passed at a committee meeting by more than two thirds of the members voting.
 
 . A member may change their representative on the committee by writing to the committee and including the signed consent of the new representative. The change is effective when it is received by the committee, or at a later time if specified by the member.
 
@@ -142,8 +143,6 @@ The association must maintain a register of members that includes the name and c
 
 . The committee can decide how often it meets, and the way in which it meets, including by allowing committee members to attend through technology, so long as it allows everyone to communicate.
 
-. The committee members present at a meeting can choose who will chair that meeting.
-
 . A majority (more than half) of committee members must be present (either in person or through the use of technology) for the meeting to be validly held (this is the quorum for committee meetings).
 
 . A resolution is passed if more than half of the committee members voting at the committee meeting vote in favour of the resolution.
@@ -152,7 +151,7 @@ The association must maintain a register of members that includes the name and c
 
 == Annual general meeting
 
-. Within three months of the end of each financial year, the committee must hold a committee meeting that will serve as the annual general meeting (AGM) of the association.
+. Within three months of the end of each financial year, the committee must hold a committee meeting that will serve as the annual general meeting of the association.
 
 . The committee must notify all members in writing of the date, time, location, and business to be considered three weeks before an AGM.
 
